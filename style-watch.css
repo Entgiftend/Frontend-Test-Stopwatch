@@ -1,0 +1,46 @@
+.stopwatch {
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    background-color: black;
+    padding: 2%;
+    border-radius: 80%;
+    width: 40%;
+    height: 40%;
+    line-height: 450%; /* To vertically center the content */
+    font-size: 48px;
+    position: relative;
+    margin: 0 auto;
+}
+
+#display {
+    font-size: 48px;
+    color: white;
+    /* background-color: black; */
+}
+
+button {
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: lightgreen;
+}
+
+#startButton {
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: lightgreen;   
+}
+#stopButton{
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: red;      
+}
+#resetButton{
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: lightblue;    
+}
